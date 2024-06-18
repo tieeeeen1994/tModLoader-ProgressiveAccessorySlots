@@ -5,7 +5,7 @@ namespace ProgressiveAccessorySlots
 {
     public class Configuration : ModConfig
     {
-        public static Configuration Instance => ModContent.GetInstance<Configuration>();
+        public static Configuration I => ModContent.GetInstance<Configuration>();
 
         public override ConfigScope Mode => ConfigScope.ServerSide;
 

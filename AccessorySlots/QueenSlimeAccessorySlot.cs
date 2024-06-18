@@ -1,11 +1,11 @@
 ﻿using Terraria;
 using Terraria.ModLoader;
 
-namespace ProgressiveAccessorySlots
+namespace ProgressiveAccessorySlots.AccessorySlots
 {
     public class QueenSlimeAccessorySlot : ModAccessorySlot
     {
-        public override bool IsEnabled() => Configuration.Instance.enableQueenSlimeAccessorySlot && NPC.downedQueenSlime;
+        public override bool IsEnabled() => Configuration.I.enableQueenSlimeAccessorySlot && NPC.downedQueenSlime;
 
         public override bool IsVisibleWhenNotEnabled() => false;
     }
