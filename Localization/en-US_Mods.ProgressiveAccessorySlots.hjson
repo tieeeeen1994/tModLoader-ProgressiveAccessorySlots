@@ -1,0 +1,163 @@
+Configs: {
+	Configuration: {
+		DisplayName: Extra Progressive Slots
+
+		enableKingSlimeAccessorySlot: {
+			Label: King Slime
+			Tooltip: Gain an extra accessory slot when King Slime is defeated.
+		}
+
+		enableEyeOfCthulhuAccessorySlot: {
+			Label: Eye Of Cthulhu
+			Tooltip: Gain an extra accessory slot when Eye Of Cthulhu is defeated.
+		}
+
+		enableWormOrBrainAccessorySlot: {
+			Label: Eater Of Worlds or Brain Of Cthulhu
+			Tooltip: Gain an extra accessory slot when Eater Of Worlds or Brain Of Cthulhu is defeated.
+		}
+
+		enableQueenBeeAccessorySlot: {
+			Label: Queen Bee
+			Tooltip: Gain an extra accessory slot when Queen Bee is defeated.
+		}
+
+		enableDeerclopsAccessorySlot: {
+			Label: Deerclops
+			Tooltip: Gain an extra accessory slot when Deerclops is defeated.
+		}
+
+		enableSkeletronAccessorySlot: {
+			Label: Skeletron
+			Tooltip: Gain an extra accessory slot when Skeletron is defeated.
+		}
+
+		enableWallOfFleshAccessorySlot: {
+			Label: Wall Of Flesh
+			Tooltip:
+				'''
+				Gain an extra accessory slot when Wall Of Flesh is defeated.
+				This checks if the world is in Hard Mode, so if there is a mod that adjusts the conditions of hard mode,
+				then this will also be adjusted to that mod as well.
+				'''
+		}
+
+		enableQueenSlimeAccessorySlot: {
+			Label: Queen Slime
+			Tooltip: Gain an extra accessory slot when Queen Slime is defeated.
+		}
+
+		enableTheTwinsAccessorySlot: {
+			Label: The Twins
+			Tooltip: Gain an extra accessory slot when The Twins is defeated.
+		}
+
+		enableTheDestroyerAccessorySlot: {
+			Label: The Destroyer
+			Tooltip: Gain an extra accessory slot when The Destroyer is defeated.
+		}
+
+		enableSkeletronPrimeAccessorySlot: {
+			Label: Skeletron Prime
+			Tooltip: Gain an extra accessory slot when Skeletron Prime is defeated.
+		}
+
+		enablePlanteraAccessorySlot: {
+			Label: Plantera
+			Tooltip: Gain an extra accessory slot when Plantera is defeated.
+		}
+
+		enableEmpressOfLightAccessorySlot: {
+			Label: Empress Of Light
+			Tooltip: Gain an extra accessory slot when Empress Of Light is defeated.
+		}
+
+		enableGolemAccessorySlot: {
+			Label: Golem
+			Tooltip: Gain an extra accessory slot when Golem is defeated.
+		}
+
+		enableDukeFishronAccessorySlot: {
+			Label: Duke Fishron
+			Tooltip: Gain an extra accessory slot when Duke Fishron is defeated.
+		}
+
+		enableLunaticCultistAccessorySlot: {
+			Label: Lunatic Cultist
+			Tooltip: Gain an extra accessory slot when Lunatic Cultist is defeated.
+		}
+
+		enableMoonLordAccessorySlot: {
+			Label: Moon Lord
+			Tooltip: Gain an extra accessory slot when Moon Lord is defeated.
+		}
+
+		enableGoblinArmyAccessorySlot: {
+			Label: Goblin Army
+			Tooltip:
+				'''
+				Gain an extra accessory slot when Goblin Army is defeated.
+				This applies to the first time the Goblin Army is defeated.
+				'''
+		}
+
+		enableFrostLegionAccessorySlot: {
+			Label: Frost Legion
+			Tooltip: Gain an extra accessory slot when Frost Legion is defeated.
+		}
+
+		enablePirateInvasionAccessorySlot: {
+			Label: Pirate Invasion
+			Tooltip: Gain an extra accessory slot when Pirate Invasion is defeated.
+		}
+
+		enableMartianMadnessAccessorySlot: {
+			Label: Martian Madness
+			Tooltip: Gain an extra accessory slot when Martian Madness is defeated.
+		}
+
+		enableOldOneArmy1stAccessorySlot: {
+			Label: Old One's Army - Tier 1
+			Tooltip: Gain an extra accessory slot when the 1st Tier of Old One's Army is defeated.
+		}
+
+		enableOldOneArmy2ndAccessorySlot: {
+			Label: Old One's Army - Tier 2
+			Tooltip: Gain an extra accessory slot when the 2nd Tier of Old One's Army is defeated.
+		}
+
+		enableOldOneArmy3rdAccessorySlot: {
+			Label: Old One's Army - Tier 3
+			Tooltip:
+				'''
+				Gain an extra accessory slot when the 3rd Tier of Old One's Army is defeated.
+				This can also be treated as when Betsy is defeated.
+				'''
+		}
+
+		enableMourningWoodAccessorySlot: {
+			Label: Mourning Wood
+			Tooltip: Gain an extra accessory slot when Mourning Wood is defeated.
+		}
+
+		enablePumpkingAccessorySlot: {
+			Label: Pumpking
+			Tooltip: Gain an extra accessory slot when Pumpking is defeated.
+		}
+
+		enableEverscreamAccessorySlot: {
+			Label: Everscream
+			Tooltip: Gain an extra accessory slot when Everscream is defeated.
+		}
+
+		enableSantaNK1AccessorySlot: {
+			Label: Santa-NK1
+			Tooltip: Gain an extra accessory slot when Santa-NK1 is defeated.
+		}
+
+		enableIceQueenAccessorySlot: {
+			Label: Ice Queen
+			Tooltip: Gain an extra accessory slot when Ice Queen is defeated.
+		}
+	}
+}
