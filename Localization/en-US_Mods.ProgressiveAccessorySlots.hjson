@@ -159,5 +159,17 @@ Configs: {
 			Label: Ice Queen
 			Tooltip: Gain an extra accessory slot when Ice Queen is defeated.
 		}
+
+		Headers.Vanilla: Vanilla
+
+		enableTorchGodAccessorySlot: {
+			Label: Torch God
+			Tooltip:
+				'''
+				Gain an extra accessory slot when Torch God event is completed.
+				This achievement is tied to the player.
+				Each player must complete the event to gain the extra accessory slot.
+				'''
+		}
 	}
 }

@@ -9,6 +9,7 @@ namespace ProgressiveAccessorySlots
 
         public override ConfigScope Mode => ConfigScope.ServerSide;
 
+        [Header("Vanilla")]
         public bool enableKingSlimeAccessorySlot;
         public bool enableEyeOfCthulhuAccessorySlot;
         public bool enableWormOrBrainAccessorySlot;
@@ -38,6 +39,7 @@ namespace ProgressiveAccessorySlots
         public bool enableEverscreamAccessorySlot;
         public bool enableSantaNK1AccessorySlot;
         public bool enableIceQueenAccessorySlot;
+        public bool enableTorchGodAccessorySlot;
 
         public Configuration()
         {
@@ -70,6 +72,7 @@ namespace ProgressiveAccessorySlots
             enableEverscreamAccessorySlot = false;
             enableSantaNK1AccessorySlot = false;
             enableIceQueenAccessorySlot = false;
+            enableTorchGodAccessorySlot = false;
         }
     }
 }
