@@ -11,6 +11,7 @@ namespace ProgressiveAccessorySlots
 
         [Header("Vanilla")]
         public bool enableKingSlimeAccessorySlot;
+
         public bool enableEyeOfCthulhuAccessorySlot;
         public bool enableWormOrBrainAccessorySlot;
         public bool enableQueenBeeAccessorySlot;

@@ -172,4 +172,193 @@ Configs: {
 				'''
 		}
 	}
+
+	CalamityConfiguration: {
+		DisplayName: Calamity Support
+		Headers.Calamity: Calamity Mod
+
+		enableAcidRainOneAccessorySlot: {
+			Label: Acid Rain - Tier 1
+			Tooltip: Gain an extra accessory slot when 1st tier of Acid Rain is completed.
+		}
+
+		enableDesertScourgeAccessorySlot: {
+			Label: Desert Scourge
+			Tooltip: Gain an extra accessory slot when Desert Scourge is defeated.
+		}
+
+		enableGiantClamAccessorySlot: {
+			Label: Giant Clam
+			Tooltip: Gain an extra accessory slot when Giant Clam is defeated.
+		}
+
+		enableCrabulonAccessorySlot: {
+			Label: Crabulon
+			Tooltip: Gain an extra accessory slot when Crabulon is defeated.
+		}
+
+		enableHiveMindAccessorySlot: {
+			Label: Hive Mind
+			Tooltip: Gain an extra accessory slot when Hive Mind is defeated.
+		}
+
+		enablePerforatorAccessorySlot: {
+			Label: Perforators
+			Tooltip: Gain an extra accessory slot when the Perforators is defeated.
+		}
+
+		enableSlimeGodAccessorySlot: {
+			Label: Slime God
+			Tooltip: Gain an extra accessory slot when Slime God is defeated.
+		}
+
+		enableCryogenAccessorySlot: {
+			Label: Cryogen
+			Tooltip: Gain an extra accessory slot when Cryogen is defeated.
+		}
+
+		enableHardmodeClamAccessorySlot: {
+			Label: Giant Clam - Hard Mode
+			Tooltip: Gain an extra accessory slot when Giant Clam in Hard Mode is defeated.
+		}
+
+		enableAcidRainTwoAccessorySlot: {
+			Label: Acid Rain - Tier 2
+			Tooltip: Gain an extra accessory slot when 2nd tier of Acid Rain is completed.
+		}
+
+		enableAquaticScourgeAccessorySlot: {
+			Label: Aquatic Scourge
+			Tooltip: Gain an extra accessory slot when Aquatic Scourge is defeated.
+		}
+
+		enableCragmawMireAccessorySlot: {
+			Label: Cragmaw Mire
+			Tooltip: Gain an extra accessory slot when Cragmaw Mire is defeated.
+		}
+
+		enableBrimstoneElementalAccessorySlot: {
+			Label: Brimstone Elemental
+			Tooltip: Gain an extra accessory slot when Brimstone Elemental is defeated.
+		}
+
+		enableCalamitasCloneAccessorySlot: {
+			Label: Calamitas Clone
+			Tooltip: Gain an extra accessory slot when Calamitas Clone is defeated.
+		}
+
+		enableGreatSandSharkAccessorySlot: {
+			Label: Great Sand Shark
+			Tooltip: Gain an extra accessory slot when Great Sand Shark is defeated.
+		}
+
+		enableLeviathanAccessorySlot: {
+			Label: Leviathan
+			Tooltip: Gain an extra accessory slot when Leviathan is defeated.
+		}
+
+		enableAstrumAureusAccessorySlot: {
+			Label: Astrum Aureus
+			Tooltip: Gain an extra accessory slot when Astrum Aureus is defeated.
+		}
+
+		enablePlaguebringerGoliathAccessorySlot: {
+			Label: Plaguebringer Goliath
+			Tooltip: Gain an extra accessory slot when Plaguebringer Goliath is defeated.
+		}
+
+		enableRavagerAccessorySlot: {
+			Label: Ravager
+			Tooltip: Gain an extra accessory slot when Ravager is defeated.
+		}
+
+		enableAstrumDeusAccessorySlot: {
+			Label: Astrum Deus
+			Tooltip: Gain an extra accessory slot when Astrum Deus is defeated.
+		}
+
+		enableProfanedGuardianAccessorySlot: {
+			Label: Profaned Guardian
+			Tooltip: Gain an extra accessory slot when Profaned Guardian is defeated.
+		}
+
+		enableDragonfollyAccessorySlot: {
+			Label: Dragonfolly
+			Tooltip: Gain an extra accessory slot when Dragonfolly is defeated.
+		}
+
+		enableProvidenceAccessorySlot: {
+			Label: Providence
+			Tooltip: Gain an extra accessory slot when Providence is defeated.
+		}
+
+		enablePolterghastAccessorySlot: {
+			Label: Polterghast
+			Tooltip: Gain an extra accessory slot when Polterghast is defeated.
+		}
+
+		enableMaulerAccessorySlot: {
+			Label: Mauler
+			Tooltip: Gain an extra accessory slot when Mauler is defeated.
+		}
+
+		enableNuclearTerrorAccessorySlot: {
+			Label: Nuclear Terror
+			Tooltip: Gain an extra accessory slot when Nuclear Terror is defeated.
+		}
+
+		enableAcidRainThreeAccessorySlot: {
+			Label: Acid Rain - Tier 3
+			Tooltip:
+				'''
+				Gain an extra accessory slot when 3rd tier of Acid Rain is completed.
+				This also includes the Old Duke boss.
+				'''
+		}
+
+		enableCeaselessVoidAccessorySlot: {
+			Label: Ceaseless Void
+			Tooltip: Gain an extra accessory slot when Ceaseless Void is defeated.
+		}
+
+		enableStormWeaverAccessorySlot: {
+			Label: Storm Weaver
+			Tooltip: Gain an extra accessory slot when Storm Weaver is defeated.
+		}
+
+		enableSignusAccessorySlot: {
+			Label: Signus
+			Tooltip: Gain an extra accessory slot when Signus is defeated.
+		}
+
+		enableDevourerOfGodsAccessorySlot: {
+			Label: Devourer Of Gods
+			Tooltip: Gain an extra accessory slot when Devourer Of Gods is defeated.
+		}
+
+		enableYharonAccessorySlot: {
+			Label: Yharon
+			Tooltip: Gain an extra accessory slot when Yharon is defeated.
+		}
+
+		enableExoMechsAccessorySlot: {
+			Label: Exo Mechs
+			Tooltip: Gain an extra accessory slot when Exo Mechs is defeated.
+		}
+
+		enableSupremeCalamitasAccessorySlot: {
+			Label: Supreme Calamitas
+			Tooltip: Gain an extra accessory slot when Supreme Calamitas is defeated.
+		}
+
+		enableEidolonWyrmAccessorySlot: {
+			Label: Eidolon Wyrm
+			Tooltip: Gain an extra accessory slot when Eidolon Wyrm is defeated.
+		}
+
+		enableBossRushAccessorySlot: {
+			Label: Terminus - Boss Rush
+			Tooltip: Gain an extra accessory slot when Terminus is completed.
+		}
+	}
 }
