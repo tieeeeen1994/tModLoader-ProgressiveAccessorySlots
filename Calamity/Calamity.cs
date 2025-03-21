@@ -20,7 +20,7 @@ namespace ProgressiveAccessorySlots.Calamity
 
         public static bool CheckDowned(string name)
         {
-            return (bool)Mod?.Call("Downed", name);
+            return (bool?)Mod?.Call("Downed", name) ?? false;
         }
     }
 }

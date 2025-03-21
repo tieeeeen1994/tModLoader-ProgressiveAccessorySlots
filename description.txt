@@ -1,3 +1,12 @@
+Do you want accessory slots, but it was rewarded to you as consumables? Fear not! Another mod was born for that. Here is the link to the mod:
+https://steamcommunity.com/sharedfiles/filedetails/?id=3035805217
+
+----
+
+I have fixed the flashing screen error. Please let me know if anybody is still experiencing the issue.
+
+----
+
 This mod is a continuation of the Extra Accessory Slots by Aubrey (since Steam names can change, I will link the profile of the author below.)
 
 The mod makes every boss, event, or event boss give you an extra accessory slot on the first kill with a config allowing you to choose which give a slot, all disabled by default.
